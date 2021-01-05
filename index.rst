@@ -1,5 +1,4 @@
-Welcome to Rocks Cluster Tutorials
-This is the list of tutorial available for the Rocks Cluster Toolkit.
+Nguyễn Thế anh
 
 Contents:
 
